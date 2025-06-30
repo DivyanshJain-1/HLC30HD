@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/evidence"
+        android:title="Evidence"
+        android:icon="@drawable/ic_evidenceicon"
+        />
+    <item android:id="@+id/location"
+        android:title="Location"
+        android:icon="@drawable/ic_locationicon"
+        />
+    <item android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settingsicon"
+        />
+
+</menu>
