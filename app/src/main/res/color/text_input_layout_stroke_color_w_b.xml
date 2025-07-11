@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/white" android:state_focused="true"/> <!-- White when focused -->
+    <item android:color="@color/grey_subtle_borders_on_black" android:state_hovered="true"/>
+    <item android:color="@color/grey_subtle_borders_on_black" android:state_enabled="false"/>
+    <item android:color="@color/grey_subtle_borders_on_black"/>  <!-- unfocused -->
+</selector>
